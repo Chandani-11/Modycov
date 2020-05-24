@@ -1,0 +1,24 @@
+.vertical-divider{
+    border-right:1px solid #ddd;
+}
+p{
+    font-family: Lucida Console, Courier, monospace;
+    font-weight: 800;
+    font-style: inherit;
+    color: rgb(61, 51, 43);
+}
+h2{
+    color: #342D7E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.upper{
+    background: url("/assets/upper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lower{
+    background: url("/assets/lower.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

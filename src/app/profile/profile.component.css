@@ -1,0 +1,14 @@
+img {
+    border-radius: 128px;
+}
+
+.row{
+    background: url("/assets/profileimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bolder;
+}
+h3{
+    font-size: 30px;
+    font-family:"Lucida Console", Monaco, monospace;
+}

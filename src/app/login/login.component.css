@@ -1,0 +1,23 @@
+.row{
+    background: url("/assets/login image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+.card{
+    background-color: transparent !important;
+    color: white;
+    border: none;
+    margin-top: 35%;
+}
+.btn[type=submit]{
+    border-radius: 50px;
+}
+.btn-link{
+    color: #fff;    
+}
+
+h1{
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+.row{
+    background-color: rgb(180, 205, 206);
+    
+}
+.card-body{
+    background: url("/assets/profile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
